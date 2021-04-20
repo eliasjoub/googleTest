@@ -3,7 +3,7 @@ package test;
 import Data.PageDetails;
 import org.testng.annotations.Test;
 
-public class ApiTest {
+public class UserRestTests {
 
     @Test
     public void usersEmailsTest() throws Exception {

@@ -9,7 +9,7 @@ public class GoogleTest extends BaseWebTest {
 
 
     @Test
-    public void googleJavaTest() throws Exception {
+    public void googleSearchTest() throws Exception {
         String searchItem = "Java";
         String expectedFirstResult = "Java";
         GoogleSearchHandler googleHandler = new GoogleSearchHandler();
